@@ -1,1 +1,1 @@
-This is my resume made in LaTex based on the Alta CV template.
+##This is my **outdated** resume made in LaTex based on the Alta CV template.
